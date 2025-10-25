@@ -1,6 +1,11 @@
-# Contributing to Project Navigator
+# Project Navigator: An AI-Powered Framework for Academic and Career Pathway Optimization in Higher Education
 
-Thank you for your interest in contributing to Project Navigator! This document provides guidelines and instructions for contributing to the project.
+---
+<div align="center">
+  <img width="60%" alt="Siraj Islamic Chatbot" src="https://github.com/RaneemSadeh/Contributing-to-Project-Navigator/blob/main/ezgif-4c20e661323617.gif" />
+  <br/><br/>
+  Made with ❤️ from Raneem Sadeh
+</div>
 
 ## Table of Contents
 
@@ -148,7 +153,7 @@ Closes #123
 
 We follow [PEP 8](https://pep8.org/) with some modifications:
 
-- Line length: 100 characters (not 79)
+- Line length: 100 characters
 - Use type hints for all function signatures
 - Use docstrings for all public functions and classes
 
@@ -575,13 +580,5 @@ Contributors will be recognized in:
 ## License
 
 By contributing to Project Navigator, you agree that your contributions will be licensed under the MIT License.
-
-## Questions?
-
-If you have questions about contributing, please:
-1. Check this document thoroughly
-2. Search existing issues and discussions
-3. Open a new discussion on GitHub
-4. Contact the maintainers
 
 Thank you for contributing to Project Navigator!
