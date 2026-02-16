@@ -1,12 +1,5 @@
 # Project Navigator: An AI-Powered Framework for Academic and Career Pathway Optimization in Higher Education
 
----
-<div align="center">
-  <img width="60%" alt="Siraj Islamic Chatbot" src="https://github.com/RaneemSadeh/Contributing-to-Project-Navigator/blob/main/ezgif-4c20e661323617.gif" />
-  <br/><br/>
-  Made with ❤️ from Raneem Sadeh
-</div>
-
 ## Table of Contents
 
 - [Code of Conduct](#code-of-conduct)
@@ -555,30 +548,9 @@ When modifying database schema:
 4. Provide rollback instructions
 5. Update data models documentation
 
-## Community
-
-### Communication Channels
-
-- **GitHub Discussions**: General questions and discussions
-- **GitHub Issues**: Bug reports and feature requests
-- **Email**: For private/sensitive matters
-
-### Getting Help
-
-- Check existing documentation
-- Search closed issues
-- Ask in GitHub Discussions
-- Contact maintainers if needed
-
-### Recognition
-
-Contributors will be recognized in:
-- CONTRIBUTORS.md file
-- Release notes
-- Annual acknowledgments
-
-## License
-
-By contributing to Project Navigator, you agree that your contributions will be licensed under the MIT License.
-
-Thank you for contributing to Project Navigator!
+---
+<div align="center">
+  <img width="60%" alt="Siraj Islamic Chatbot" src="https://github.com/RaneemSadeh/Contributing-to-Project-Navigator/blob/main/ezgif-4c20e661323617.gif" />
+  <br/><br/>
+  Made with ❤️ from Raneem Sadeh
+</div>
